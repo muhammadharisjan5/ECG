@@ -15,12 +15,7 @@
 >
 > Our CNN is implemented using PyTorch v1.4.0  and trained on the NVIDIA GeForce RTX 2080Ti graphical processing unit. Noted that different versions of PyTorch and CUDA may cause the results to be slightly different from the results in the article.
 
-## Cite
-
-If our work is helpful to you, please cite:
-
-Wang, T.; Lu, C.; Sun, Y.; Yang, M.; Liu, C.; Ou, C. Automatic ECG Classification Using Continuous Wavelet Transform and Convolutional Neural Network. Entropy 2021, 23, 119. https://doi.org/10.3390/e23010119
 
 ## Email:
 
-If you have any questions, please email to: [wtustc@mail.ustc.edu.cn](mailto:wtustc@mail.ustc.edu.cn)
+muhammadharis.q123@gmail.com
